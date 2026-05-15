@@ -6,14 +6,14 @@ Website sistem informasi logistik rumah sakit menggunakan PHP, Bootstrap, dan My
 
 ## ✨ Fitur
 
-- Login multi user
-- Manajemen barang
+- Dashboaard
+- Barang
 - Barang masuk
 - Barang keluar
+- Kelola 
 - Permintaan barang
-- Approval permintaan
-- Role admin dan user
-- Dashboard stok barang
+- Status permintaan
+- User
 
 ---
 
@@ -22,9 +22,6 @@ Website sistem informasi logistik rumah sakit menggunakan PHP, Bootstrap, dan My
 - PHP
 - MySQL
 - Bootstrap
-- JavaScript
-- SweetAlert2
-
 ---
 
 ## ▶️ Cara Menjalankan Project
@@ -36,7 +33,7 @@ Website sistem informasi logistik rumah sakit menggunakan PHP, Bootstrap, dan My
 5. Buka browser:
 
 ```text
-http://localhost/sistem-logistik-rs
+http://localhost/logistik
 ```
 
 ---
