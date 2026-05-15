@@ -67,6 +67,7 @@ Teknologi:
 
 # Kontak
 
+- Portofolio Website: https://robaittajuddin.github.io/portofolio/
 - GitHub: https://github.com/robaittajuddin
 - Email: semuabisa.jr@gmail.com
 
