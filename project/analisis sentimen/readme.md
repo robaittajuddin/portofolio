@@ -13,7 +13,7 @@ pip install -r requirements.txt
 ```
 
 Semua library yang dibutuhkan di dalam file `requirements.txt`
-akan otomatis terinstall.
+akan otomatis terinstall, jika masih merah berarti ada library yang terlewat dan install sesuai keteraangan library mana yang belum terinstall
 
 ---
 
@@ -54,4 +54,4 @@ Setelah itu aplikasi Gradio akan berjalan otomatis di browser.
 
 ## Disclaimer
 
-**Pembuatan aplikasi tersebut dibantu dengan menggunakan AI dengan ide/promt dari saya sendiri**
+**Pembuatan aplikasi tersebut dibantu dengan menggunakan AI dengan ide/promt dari saya sendiri, jika ada kendala pada aplikasi maka aplikasi belum terupdate**
