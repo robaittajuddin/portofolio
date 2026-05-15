@@ -34,7 +34,7 @@ Setelah itu aplikasi Gradio akan berjalan otomatis di browser.
 1. Jalankan aplikasi terlebih dahulu.
 2. Akan muncul tampilan aplikasi seperti gambar berikut:
 
-![Tampilan Aplikasi](images/aplikasi-analisis-sentimen.png)
+![Tampilan Aplikasi](../../images/aplikasi-analisis-sentimen.png)
 
 3. Untuk prediksi manual:
    - masukkan kalimat pada textbox sebelah kiri
