@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+gradio
+joblib
+imbalanced-learn
+scikit-learn
+openpyxl
+xlsxwriter
